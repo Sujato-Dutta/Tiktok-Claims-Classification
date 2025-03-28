@@ -53,5 +53,5 @@ TikTok is working on the development of a predictive model that can determine wh
 3.	Are there new features that you can engineer that might improve model performance? Because the model currently performs nearly perfectly, there is no need to engineer any new features.
 4.	What features would you want to have that would likely improve the performance of your model? The current version of the model does not need any new features. However, it would be helpful to have the number of times the video was reported. It would also be useful to have the total number of user reports for all videos posted by each author.
 ![Image Alt](https://github.com/Sujato-Dutta/Tiktok-Claims-Classification/blob/9fd6e68ae1fc421cc5dd23518b535a91f26773b8/Random%20Forest%20Confusion%20Matrix.jpg)
-![Image Alt](image_url)
+![Image Alt](https://github.com/Sujato-Dutta/Tiktok-Claims-Classification/blob/40634bbd25412a3f483ac9c5a15dafda6f73fe2c/Text%20length%20for%20claims%20vs%20opinions.jpg)
 ![Image Alt](image_url)
