@@ -54,4 +54,6 @@ TikTok is working on the development of a predictive model that can determine wh
 4.	What features would you want to have that would likely improve the performance of your model? The current version of the model does not need any new features. However, it would be helpful to have the number of times the video was reported. It would also be useful to have the total number of user reports for all videos posted by each author.
 ![Image Alt](https://github.com/Sujato-Dutta/Tiktok-Claims-Classification/blob/9fd6e68ae1fc421cc5dd23518b535a91f26773b8/Random%20Forest%20Confusion%20Matrix.jpg)
 ![Image Alt](https://github.com/Sujato-Dutta/Tiktok-Claims-Classification/blob/40634bbd25412a3f483ac9c5a15dafda6f73fe2c/Text%20length%20for%20claims%20vs%20opinions.jpg)
-![Image Alt](image_url)
+
+## Executive Summary:
+![Image Alt](https://github.com/Sujato-Dutta/Tiktok-Claims-Classification/blob/0aaa9fa597822d045b6edf942aafe25e9b535d3e/Tiktok%20Project%20Executive%20Summary.jpg)
