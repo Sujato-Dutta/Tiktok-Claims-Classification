@@ -49,7 +49,7 @@ TikTok is working on the development of a predictive model that can determine wh
 ## Key Findings and Recommendations:
 1.	Would you recommend using this model? Why or why not? Yes, one can recommend this model because it performed well on both the validation and test holdout data. Furthermore, both precision and F1 scores were consistently high. The model very successfully classified claims and opinions.
 2.	What was your model doing? Can you explain how it was making predictions? The model's most predictive features were all related to the user engagement levels associated with each video. It was classifying videos based on how many views, likes, shares, and downloads they received.
-![Image Alt](image_url)
+![Image Alt](https://github.com/Sujato-Dutta/Tiktok-Claims-Classification/blob/b94c4740176efb8b929492879a819852ab8ab654/Feature%20Importances.jpg)
 3.	Are there new features that you can engineer that might improve model performance? Because the model currently performs nearly perfectly, there is no need to engineer any new features.
 4.	What features would you want to have that would likely improve the performance of your model? The current version of the model does not need any new features. However, it would be helpful to have the number of times the video was reported. It would also be useful to have the total number of user reports for all videos posted by each author.
 ![Image Alt](image_url)
